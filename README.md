@@ -2,7 +2,7 @@
 
 **kundiama/kundiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# 🎉 Bem-vindo ao repositório de apresentação da KUNDIAMA!
+# 🎉 Bem-vindo ao repositório da KUNDIAMA!
 
 Aqui você encontra projetos que demonstram nossa expertise em:
 
